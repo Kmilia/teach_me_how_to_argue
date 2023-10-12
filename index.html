@@ -11,6 +11,7 @@
         html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
         .w3-tag, .fa {cursor:pointer}
         .w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+        p { text-align: justify;}
     </style>
     <script type="text/javascript" src="navbar.js"> </script>
 </head>
@@ -34,11 +35,15 @@
         <a href="pages/personalization.html" class="w3-button w3-block w3-col s2 w3-hover-red w3-bar-item w3-hide-medium w3-hide-small">
             Personnalization
         </a>
+        <a href="#" class="w3-button w3-block w3-col s2 w3-hover-red w3-bar-item w3-hide-medium w3-hide-small">
+            Original Paper
+        </a>
         <div id="navSmall" class="w3-bar-block w3-light-grey w3-hide w3-hide-large w3-top" style="margin-top:46px">
 			<a href="pages/richness.html" class="w3-bar-item w3-button w3-hover-red">Richness</a>
 			<a href="pages/visualization.html" class="w3-bar-item w3-button w3-hover-red" >Visualization</a>
 			<a href="pages/interactivity.html" class="w3-bar-item w3-button w3-hover-red">Interactivity</a>
 			<a href="pages/personalization.html" class="w3-bar-item w3-button w3-hover-red">Personnalization</a>
+            <a href="#" class="w3-bar-item w3-button w3-hover-red">Original Paper</a>
 		</div>
     </div>
 
@@ -51,90 +56,75 @@
         
         <!-- Grid -->
         <div class="w3-row w3-container">
+            <div class="w3-padding-16">
+                <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">A Survey on NLP Feedback Systems in Argumentation</span>
+                <p>
+                    <br/>
+                    The use of argumentation in education has shown improvement in students' critical thinking skills, and computational models for argumentation have been developed to further assist this process.
+                    Although these models are useful for evaluating the quality of an argument, they often cannot explain why a particular argument score was predicted, i.e., why the argument is good or bad,
+                    which makes it difficult to provide constructive feedback to users, e.g., students, so that they can strengthen their critical thinking skills.
+                </p>
+                <p>
+                    In this survey, we explore current NLP feedback systems by categorizing each into four important dimensions of feedback (Richness, Visualization, Interactivity and Personalization).
+                    We discuss limitations for each dimension and provide suggestions to enhance the power of feedback and explanations to ultimately improve user critical thinking skills.
+                </p>
+                <p>
+                    Feel free to explore, on our website, the different references we found for each dimension. For more information please check the original paper published at
+                    the 10th Workshop on Argument Mining (ArgMining 2023)
+                </p>
+                <br>
+            </div>
+
+            <span class="w3-xlarge w3-bottombar w3-border-dark-grey">Dimensions</span>
+
+            <div class="w3-padding-16">
+                <div class="w3-quarter w3-margin-bottom">
+                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                        <li class="w3-xlarge w3-padding-32 w3-red">Richness</li>
+                        <li class="w3-padding-16">
+                            <p> Level of feedback details given by a model, i.e., <b class="w3-text-red">what</b> is the error identified by the model and <b class="w3-text-red">why</b> it is an error.</p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="w3-quarter w3-margin-bottom">
+                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                        <li class="w3-xlarge w3-padding-32 w3-deep-purple">Visualization</li>
+                        <li class="w3-padding-16">
+                            <p>Model's ability to present feedback, i.e., <b class="w3-text-deep-purple">how</b> the feedback is shown to the end user.</p>
+                            <br/>
+                        </li>
+                    </ul>
+                </div>
+    
+                <div class="w3-quarter w3-margin-bottom">
+                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                        <li class="w3-xlarge w3-padding-32 w3-blue">Interactivity</li>
+                        <li class="w3-padding-16">
+                            <p>Model's ability to allow the user to communicate with other users or the model itself, i.e., with <b class="w3-text-blue">whom</b> the user is talking.</p>
+                        </li>
+                    </ul>
+                </div>
+    
+                <div class="w3-quarter w3-margin-bottom">
+                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                        <li class="w3-xlarge w3-padding-32 w3-green">Personnalization</li>
+                        <li class="w3-padding-16">
+                            <p>Model's ability to adapt the feedback to the users' background, i.e., <b class="w3-text-green">to whom</b> the feedback is given.</p>
+                            <br/>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <image src="images/dimensions.png" width="100%" height="100%"/>
+
             <div class="w3-center w3-padding-64">
-            <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">What We Offer</span>
+                <h3>Pricing Plans</h3>
+                <p>Choose a pricing plan that fits your needs.</p>
             </div>
-            <div class="w3-col l3 m6 w3-light-grey w3-container w3-padding-16">
-            <h3>Richness</h3>
-            <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-            </div>
-
-            <div class="w3-col l3 m6 w3-grey w3-container w3-padding-16">
-            <h3>Visualization</h3>
-            <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-            </div>
-
-            <div class="w3-col l3 m6 w3-dark-grey w3-container w3-padding-16">
-            <h3>Interactivity</h3>
-            <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-            </div>
-
-            <div class="w3-col l3 m6 w3-black w3-container w3-padding-16">
-            <h3>Personnalization</h3>
-            <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-            </div>
+            <image src="images/future_directions.png" width="100%" height="100%"/>
         </div>
-
-        <!-- Grid -->
-        <div class="w3-row-padding" id="plans">
-            <div class="w3-center w3-padding-64">
-            <h3>Pricing Plans</h3>
-            <p>Choose a pricing plan that fits your needs.</p>
-            </div>
-
-            <div class="w3-quarter w3-margin-bottom">
-            <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-                <li class="w3-black w3-xlarge w3-padding-32">Basic</li>
-                <li class="w3-padding-16"><b>10GB</b> Storage</li>
-                <li class="w3-padding-16"><b>10</b> Emails</li>
-                <li class="w3-padding-16"><b>10</b> Domains</li>
-                <li class="w3-padding-16"><b>Endless</b> Support</li>
-                <li class="w3-light-grey w3-padding-24">
-                <button class="w3-button w3-green w3-padding-large">See More</button>
-                </li>
-            </ul>
-            </div>
-
-            <div class="w3-quarter w3-margin-bottom">
-            <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-                <li class="w3-dark-grey w3-xlarge w3-padding-32">Pro</li>
-                <li class="w3-padding-16"><b>25GB</b> Storage</li>
-                <li class="w3-padding-16"><b>25</b> Emails</li>
-                <li class="w3-padding-16"><b>25</b> Domains</li>
-                <li class="w3-padding-16"><b>Endless</b> Support</li>
-                <li class="w3-light-grey w3-padding-24">
-                <button class="w3-button w3-green w3-padding-large">See More</button>
-                </li>
-            </ul>
-            </div>
-
-            <div class="w3-quarter w3-margin-bottom">
-            <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-                <li class="w3-black w3-xlarge w3-padding-32">Premium</li>
-                <li class="w3-padding-16"><b>50GB</b> Storage</li>
-                <li class="w3-padding-16"><b>50</b> Emails</li>
-                <li class="w3-padding-16"><b>50</b> Domains</li>
-                <li class="w3-padding-16"><b>Endless</b> Support</li>
-                <li class="w3-light-grey w3-padding-24">
-                <button class="w3-button w3-green w3-padding-large">See More</button>
-                </li>
-            </ul>
-            </div>
-
-            <div class="w3-quarter w3-margin-bottom">
-                <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-                <li class="w3-red w3-xlarge w3-padding-32">Premium</li>
-                <li class="w3-padding-16"><b>50GB</b> Storage</li>
-                <li class="w3-padding-16"><b>50</b> Emails</li>
-                <li class="w3-padding-16"><b>50</b> Domains</li>
-                <li class="w3-padding-16"><b>Endless</b> Support</li>
-                <li class="w3-light-grey w3-padding-24">
-                    <button class="w3-button w3-green w3-padding-large">See More</button>
-                </li>
-                </ul>
-            </div>
-        </div>
-
     </div>
 
     <!-- Footer -->
