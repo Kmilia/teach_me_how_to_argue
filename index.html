@@ -57,9 +57,8 @@
         <!-- Grid -->
         <div class="w3-row w3-container">
             <div class="w3-padding-16">
-                <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">A Survey on NLP Feedback Systems in Argumentation</span>
+                <span class="w3-xlarge w3-bottombar w3-border-dark-grey">A Survey on NLP Feedback Systems in Argumentation</span>
                 <p>
-                    <br/>
                     The use of argumentation in education has shown improvement in students' critical thinking skills, and computational models for argumentation have been developed to further assist this process.
                     Although these models are useful for evaluating the quality of an argument, they often cannot explain why a particular argument score was predicted, i.e., why the argument is good or bad,
                     which makes it difficult to provide constructive feedback to users, e.g., students, so that they can strengthen their critical thinking skills.
@@ -72,64 +71,101 @@
                     Feel free to explore, on our website, the different references we found for each dimension. For more information please check the original paper published at
                     the 10th Workshop on Argument Mining (ArgMining 2023)
                 </p>
-                <br>
             </div>
 
             <span class="w3-xlarge w3-bottombar w3-border-dark-grey">Dimensions</span>
 
             <div class="w3-padding-16">
                 <div class="w3-quarter w3-margin-bottom">
-                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                    <ul class="w3-ul w3-center w3-border w3-hover-shadow">
                         <li class="w3-xlarge w3-padding-32 w3-red">Richness</li>
-                        <li class="w3-padding-16">
+                        <li>
                             <p> Level of feedback details given by a model, i.e., <b class="w3-text-red">what</b> is the error identified by the model and <b class="w3-text-red">why</b> it is an error.</p>
                         </li>
                     </ul>
                 </div>
 
                 <div class="w3-quarter w3-margin-bottom">
-                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                    <ul class="w3-ul w3-center w3-border w3-hover-shadow">
                         <li class="w3-xlarge w3-padding-32 w3-deep-purple">Visualization</li>
-                        <li class="w3-padding-16">
+                        <li>
                             <p>Model's ability to present feedback, i.e., <b class="w3-text-deep-purple">how</b> the feedback is shown to the end user.</p>
-                            <br/>
+                            <br>
                         </li>
                     </ul>
                 </div>
     
                 <div class="w3-quarter w3-margin-bottom">
-                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                    <ul class="w3-ul w3-center w3-border w3-hover-shadow">
                         <li class="w3-xlarge w3-padding-32 w3-blue">Interactivity</li>
-                        <li class="w3-padding-16">
+                        <li>
                             <p>Model's ability to allow the user to communicate with other users or the model itself, i.e., with <b class="w3-text-blue">whom</b> the user is talking.</p>
                         </li>
                     </ul>
                 </div>
     
                 <div class="w3-quarter w3-margin-bottom">
-                    <ul class="w3-ul w3-border w3-center w3-hover-shadow">
+                    <ul class="w3-ul w3-center w3-border w3-hover-shadow">
                         <li class="w3-xlarge w3-padding-32 w3-green">Personnalization</li>
-                        <li class="w3-padding-16">
+                        <li>
                             <p>Model's ability to adapt the feedback to the users' background, i.e., <b class="w3-text-green">to whom</b> the feedback is given.</p>
-                            <br/>
+                            <br>
                         </li>
                     </ul>
                 </div>
+
             </div>
             
-            <image src="images/dimensions.png" width="100%" height="100%"/>
-
-            <div class="w3-center w3-padding-64">
-                <h3>Pricing Plans</h3>
-                <p>Choose a pricing plan that fits your needs.</p>
+            <div class="w3-padding-16">
+                <p>
+                    The following figure shows possible feedback highlighting each dimension for a given argument consisting of two claims and one premise.
+                    <br>
+                    In this example:
+                    <br>
+                    &emsp;In the <b class="w3-text-red">Richness</b> dimension, a faulty generalization in the argument is <b class="w3-text-red">identified</b> (cf. What) and <b class="w3-text-red">explained</b> (cf. Why).
+                    <br>
+                    &emsp;In the <b class="w3-text-deep-purple">Visualization</b> dimension, <b class="w3-text-deep-purple">symbols, highlights</b> and other important <b class="w3-text-deep-purple">visual elements</b> are added to the feedback to make it more understandable.
+                    <br>
+                    &emsp;In the <b class="w3-text-blue">Interactivity</b> dimension, the user can <b class="w3-text-blue">ask for more explanations</b> to the model.
+                    <br>
+                    &emsp;In the <b class="w3-text-green">Personalization</b> dimension, the user is a child and receives appropriate feedback regarding <b class="w3-text-green">their profile</b>.
+                </p>
             </div>
-            <image src="images/future_directions.png" width="100%" height="100%"/>
+
+            <figure class="w3-padding-16">
+                <image src="images/dimensions.png" width="100%" height="100%"/>
+                <figcaption class="w3-center">Figure 1 - Example of four feedback for each dimension Richness, Visualization, Interactivity and Personalization.</figcaption>
+            </figure>
+
+            <div class="w3-padding-16">
+                <span class="w3-xlarge w3-bottombar w3-border-dark-grey">Overview of possible future directions</span>
+                <p>
+                    We hope our survey contributes to enriching the research community focused on argumentation with a comprehensive understanding of current perspectives in NLP systems for teaching how to argue.
+                    As potential areas for improvement to enhance the quality of educational argumentative systems, we highlighted the following points:
+                    <br>&emsp;(1) generate accurate, constructive feedback for a real-life input,
+                    <br>&emsp;(2) tailor the output based on the user's background,
+                    <br>&emsp;(3) evaluate and compare end-to-end systems more deeply,
+                    <br>&emsp;(4) improve models' abilities to adapt to unknown topics,
+                    <br>&emsp;(5) collaborate with pedagogical teams and actual students, and finally
+                    <br>&emsp;(6) take into consideration ethical issues.
+                    <br>Please refer to Figure 2 and the original paper for more information.
+                </p>
+            </div>
+
+            <figure>
+                <image src="images/future_directions.png" width="100%" height="100%"/>
+                <figcaption class="w3-center">
+                    Figure 2 - Current and future directions of teaching argumentation with NLP systems.
+                    <br>
+                    Boxes with a specific color correspond to a specific dimension, whereas the ones in black are general directions.
+                </figcaption>
+            </figure>
         </div>
     </div>
 
     <!-- Footer -->
     <footer class="w3-container w3-light-grey w3-center w3-margin-top">
-        <p>Contact Us: &emsp;
+        <p class="w3-center">Contact Us: &emsp;
             <a href="mailto:guerraoui.camelia.kenza.q4@dc.tohoku.ac.jp">
                 <i class="fa fa-envelope w3-hover-red w3-xlarge"></i>
             </a>
