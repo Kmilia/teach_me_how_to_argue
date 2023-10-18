@@ -41,7 +41,7 @@
 	},
 	{
 		"id": 5,
-		"author": "Khalid Al-Khatib, Henning Wachsmuth, Matthias Hagen, Jonas K{\"o}hler, and Benno Stein",
+		"author": "Khalid Al-Khatib, Henning Wachsmuth, Matthias Hagen, Jonas Köhler, and Benno Stein",
 		"date":  2016,
 		"link": "https://doi.org/10.18653/v1/N16-1165",
 		"title": "Cross-domain mining of argumentative text through distant supervision",
@@ -154,7 +154,7 @@
 		"author": "Artem Chernodub, Oleksiy Oliynyk, Philipp Heidenreich, Alexander Bondarenko, Matthias Hagen, Chris Biemann, and Alexander Panchenko",
 		"date":  2019,
 		"link": "https://doi.org/10.18653/v1/P19-3031",
-		"title": "TARGER",
+		"title": "TARGER: Neural argument mining at your fingertips",
 		"bib": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 195--200, Florence, Italy. Association for Computational Linguistics.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -474,7 +474,7 @@
 		"author": "Anne Lauscher, Goran Glavas, and Kai Eckert",
 		"date":  2018,
 		"link": "https://doi.org/10.18653/v1/W18-5203",
-		"title": "A",
+		"title": "ArguminSci: A tool for analyzing argumentation and rhetorical aspects in scientific writing",
 		"bib": "In Proceedings of the 5th Workshop on Argument Mining, pages 22--28, Brussels, Belgium. Association for Computational Linguistics.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -484,7 +484,7 @@
 		"author": "Anne Lauscher, Henning Wachsmuth, Iryna Gurevych, and Goran Glavas",
 		"date":  2022,
 		"link": "https://doi.org/10.1162/tacl_a_00525",
-		"title": "Scientia potentia E",
+		"title": "Scientia potentia Est--On the role of knowledge in computational argumentatio",
 		"bib": "Transactions of the Association for Computational Linguistics, 10:1392--1422.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -604,7 +604,7 @@
 		"author": "Farjana~Sultana Mim, Naoya Inoue, Shoichi Naito, Keshav Singh, and Kentaro Inui",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.261",
-		"title": "LPA",
+		"title": "LPAttack: A feasible annotation scheme for capturing logic pattern of attacks in arguments",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 2446--2459, Marseille, France. European Language Resources Association.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -624,7 +624,7 @@
 		"author": "Shoichi Naito, Shintaro Sawada, Chihiro Nakagawa, Naoya Inoue, Kenshi Yamaguchi, Iori Shimizu, Farjana~Sultana Mim, Keshav Singh, and Kentaro Inui",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.636",
-		"title": "TYPIC",
+		"title": "TYPIC: A corpus of template-based diagnostic comments on argumentation",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 5916--5928, Marseille, France. European Language Resources Association.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -694,7 +694,7 @@
 		"author": "Jan Wira~Gotama Putra, Simone Teufel, Kana Matsumura, and Takenobu Tokunaga",
 		"date":  2020,
 		"link": "https://aclanthology.org/2020.lrec-1.854",
-		"title": "TIARA",
+		"title": "TIARA: A tool for annotating discourse relations and sentence reordering",
 		"bib": "In Proceedings of the 12th Language Resources and Evaluation Conference, pages 6912--6920, Marseille, France. European Language Resources Association.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -754,7 +754,7 @@
 		"author": "Swarnadeep Saha, Prateek Yadav, Lisa Bauer, and Mohit Bansal",
 		"date":  2021,
 		"link": "https://doi.org/10.18653/v1/2021.emnlp-main.609",
-		"title": "E",
+		"title": "ExplaGraphs: An explanation graph generation task for structured commonsense reasoning",
 		"bib": "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 7716--7740, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -794,7 +794,7 @@
 		"author": "Keshav Singh, Naoya Inoue, Farjana~Sultana Mim, Shoichi Naito, and Kentaro Inui",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.499",
-		"title": "IRAC",
+		"title": "IRAC: A domain-specific annotated corpus of implicit reasoning in arguments",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 4674--4683, Marseille, France. European Language Resources Association.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -894,7 +894,7 @@
 		"author": "Henning Wachsmuth and Milad Alshomary",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.coling-1.27",
-		"title": "``",
+		"title": "\"mama always had a way of explaining things so I could understand\": A dialogue corpus for learning to construct explanations",
 		"bib": "In Proceedings of the 29th International Conference on Computational Linguistics, pages 344--354, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.",
 		"part": "NONE",
 		"subpart": "NONE"
@@ -924,7 +924,7 @@
 		"author": "Thiemo Wambsganss, Andrew Caines, and Paula Buttery",
 		"date": 2022,
 		"link": "https://doi.org/10.18653/v1/2022.bea-1.18",
-		"title": "ALEN",
+		"title": "ALEN app: Argumentative writing support to foster English language learning",
 		"bib": "In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022), pages 134--140, Seattle, Washington. Association for Computational Linguistics.",
 		"part": "NONE",
 		"subpart": "NONE"
