@@ -6,8 +6,8 @@
 		"link": "http://www.jstor.org/stable/24716713",
 		"title": "Reframing the socratic method",
 		"bib": "Journal of Legal Education, 64(4):562--585.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 2,
@@ -15,9 +15,9 @@
 		"date":  2021,
 		"link": "https://doi.org/10.1145/3411764.3445683",
 		"title": "Effective interfaces for student-driven revision sessions for argumentative writing",
-		"bib": "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021). ACM.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"bib": "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021) ACM.",
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views"
 	},
 	{
 		"id": 3,
@@ -25,9 +25,9 @@
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.131",
 		"title": "Towards building a spoken dialogue system for argument exploration",
-		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 1234--1241, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 1234--1241, Marseille, France. European Language Resources Association (LREC 2022).",
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 4,
@@ -36,8 +36,8 @@
 		"link": "https://aclanthology.org/2023.bea-1.57",
 		"title": "Socratic questioning of novice debuggers: A benchmark dataset and preliminary evaluations",
 		"bib": "In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 709--726, Toronto, Canada. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 5,
@@ -46,7 +46,7 @@
 		"link": "https://doi.org/10.18653/v1/N16-1165",
 		"title": "Cross-domain mining of argumentative text through distant supervision",
 		"bib": "In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1395--1404, San Diego, California. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
@@ -56,18 +56,18 @@
 		"link": "https://doi.org/10.18653/v1/2021.findings-acl.159",
 		"title": "Counter-argument generation by attacking weak premises",
 		"bib": "In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 1816--1827, Online. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Components"
 	},
 	{
 		"id": 7,
-		"author": "Beng~Heng Ang, Sujatha~Das Gollapalli, and See-Kiong Ng",
+		"author": "Beng Heng Ang, Sujatha Das Gollapalli, and See-Kiong Ng",
 		"date":  2023,
 		"link": "https://aclanthology.org/2023.eacl-main.12",
 		"title": "Socratic question generation: A novel dataset, models, and evaluation",
 		"bib": "In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 147--165, Dubrovnik, Croatia. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 8,
@@ -76,8 +76,8 @@
 		"title": "Collaborative Argumentation-Based Learning",
 		"bib": "pages pp. 76--88. Routledge.",
 		"link": "https://www.researchgate.net/publication/337242515_Collaborative_Argumentation-Based_Learning",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Collaborative argumentation"
 	},
 	{
 		"id": 9,
@@ -86,8 +86,8 @@
 		"link": "https://doi.org/10.18653/v1/2022.acl-short.4",
 		"title": "Have my arguments been replied to? argument pair extraction as machine reading comprehension",
 		"bib": "In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 29--35, Dublin, Ireland. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Debate patterns"
 	},
 	{
 		"id": 10,
@@ -96,8 +96,8 @@
 		"link": "https://aclanthology.org/2020.lrec-1.282",
 		"title": "Implicit knowledge in argumentative texts: An annotated corpus",
 		"bib": "In Proceedings of the 12th Language Resources and Evaluation Conference, pages 2316--2324, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 11,
@@ -106,8 +106,8 @@
 		"link": "https://doi.org/10.18653/v1/2021.deelio-1.2",
 		"title": "Reconstructing implicit knowledge with language models",
 		"bib": "In Proceedings of Deep Learning Inside Out (DeeLIO): The 2nd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures, pages 11--24, Online. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 12,
@@ -116,38 +116,38 @@
 		"link": "https://doi.org/10.19030/tlc.v8i2.3554",
 		"title": "Teaching critical thinking skills in higher education: A review of the literature",
 		"bib": "Journal of College Teaching and Learning, 8.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
 		"id": 13,
-		"author": "Beata Beigman~Klebanov and Nitin Madnani",
+		"author": "Beata Beigman Klebanov and Nitin Madnani",
 		"date":  2020,
 		"link": "https://doi.org/10.18653/v1/2020.acl-main.697",
 		"title": "Automated evaluation of writing --",
 		"bib": "In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7796--7810, Online. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
 		"id": 14,
-		"author": "Claire Bonial, Austin Blodgett, Taylor Hudson, Stephanie~M Lukin, Jeffrey Micher, Douglas Summers-Stay, Peter Sutor, and Clare Voss",
+		"author": "Claire Bonial, Austin Blodgett, Taylor Hudson, Stephanie M Lukin, Jeffrey Micher, Douglas Summers-Stay, Peter Sutor, and Clare Voss",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.471",
 		"title": "The search for agreement on logical fallacy annotation of an infodemic",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 4430--4438, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Fallacies"
 	},
 	{
 		"id": 15,
 		"author": "Kasia Budsziyska, Mathilde Janier, Chris Reed, Patrick Saint-Dizier, Manfred Stede, and Olena Yakorska",
 		"date":  2014,
 		"title": "A model for processing illocutionary structures and argumentation in debates.",
-		"bib": "In Proceedings of the 9th International Conference on Language Resources and Evaluation (LREC 2014), volume~14, pages electronic--medium. European Language Resources Association (ELRA).",
+		"bib": "In Proceedings of the 9th International Conference on Language Resources and Evaluation (LREC 2014), volume 14, pages electronic--medium. European Language Resources Association (ELRA).",
 		"link": "https://aclanthology.org/L14-1599/", 
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Debate patterns"
 	},
 	{
 		"id": 16,
@@ -156,28 +156,28 @@
 		"link": "https://doi.org/10.18653/v1/P19-3031",
 		"title": "TARGER: Neural argument mining at your fingertips",
 		"bib": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 195--200, Florence, Italy. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Highlights"
 	},
 	{
 		"id": 17,
-		"author": "Christie A~Linskens Christie",
+		"author": "Christie A Linskens Christie",
 		"date":  2010,
 		"link": "https://heinonline.org/HOL/Page?handle=hein.journals/ejlr12&div=22&g_sent=1&casa_token=&collection=journals",
 		"title": "What critique have been made of the socratic method in legal education",
 		"bib": "European Journal of Law Reform, 12.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 18,
-		"author": "Bhavana Dalvi~Mishra, Greg Durrett, Peter Jansen, Danilo Neves~Ribeiro, and Jason Wei, editors",
+		"author": "Bhavana Dalvi Mishra, Greg Durrett, Peter Jansen, Danilo Neves Ribeiro, and Jason Wei, editors",
 		"date":  2023,
 		"link": "https://aclanthology.org/2023.nlrse-1.0",
 		"title": "In Proceedings of the 1st Workshop on Natural Language Reasoning and Structured Explanations (NLRSE 2023)",
 		"bib": "Association for Computational Linguistics, Toronto, Canada.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 19,
@@ -186,38 +186,38 @@
 		"link": "https://doi.org/10.48550/ARXIV.2010.00711",
 		"title": "A survey of the state of explainable ai for natural language processing",
 		"bib": "In Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, pages 447–459, Suzhou, China. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
 		"id": 20,
-		"author": "Debajyoti Datta, Maria Phillips, James~P Bywater, Jennifer Chiu, Ginger~S Watson, Laura Barnes, and Donald Brown",
+		"author": "Debajyoti Datta, Maria Phillips, James P Bywater, Jennifer Chiu, Ginger S Watson, Laura Barnes, and Donald Brown",
 		"date":  2021,
 		"link": "https://aclanthology.org/2021.bea-1.20",
 		"title": "Virtual pre-service teacher assessment and feedback via conversational agents",
 		"bib": "In Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications, pages 185--198, Online. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "Limitations",
+		"subpart": "Paper selection"
 	},
 	{
 		"id": 21,
-		"author": "Roxanne El~Baff, Henning Wachsmuth, Khalid Al-Khatib, and Benno Stein",
+		"author": "Roxanne El Baff, Henning Wachsmuth, Khalid Al-Khatib, and Benno Stein",
 		"date":  2018,
 		"link": "https://doi.org/10.18653/v1/K18-1044",
 		"title": "Challenge or empower: Revisiting argumentation quality in a news editorial corpus",
 		"bib": "In Proceedings of the 22nd Conference on Computational Natural Language Learning, pages 454--464, Brussels, Belgium. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
 		"id": 22,
-		"author": "Vanessa~Wei Feng and Graeme Hirst",
+		"author": "Vanessa Wei Feng and Graeme Hirst",
 		"date":  2011,
 		"link": "https://aclanthology.org/P11-1099",
 		"title": "Classifying arguments by scheme",
 		"bib": "In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, pages 987--996, Portland, Oregon, USA. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Schemes"
 	},
 	{
 		"id": 23,
@@ -226,18 +226,18 @@
 		"link": "https://doi.org/10.1007/978-3-031-36272-9_7",
 		"title": "Reducing the cost: Cross-prompt pre-finetuning for short answer scoring",
 		"bib": "In Lecture Notes in Computer Science, page 78–89, Berlin, Heidelberg. Springer-Verlag.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "8. Discussions",
+		"subpart": "Domain Adaptation"
 	},
 	{
 		"id": 24,
-		"author": "Vetti Giri and M~U Paily",
+		"author": "Vetti Giri and M U Paily",
 		"date":  2020,
 		"link": "https://doi.org/https://doi.org/10.1007/s11191-020-00120-y",
 		"title": "Effect of scientific argumentation on the development of critical thinking",
 		"bib": "Science & Education, 29.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Toulmin Model"
 	},
 	{
 		"id": 25,
@@ -246,18 +246,18 @@
 		"link": "https://doi.org/10.24963/ijcai.2022/575",
 		"title": "Fallacious argument classification in political debates",
 		"bib": "In Proceedings of the 31st International Joint Conference on Artificial Intelligence IJCAI 2022, pages 4143--4149. International Joint Conferences on Artificial Intelligence Organization.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Fallacies"
 	},
 	{
 		"id": 26,
-		"author": "Carina González-González, Vanesa Muñoz-Cruz, Pedro~Antonio Toledo-Delgado, and Eduardo Nacimiento-García",
+		"author": "Carina González-González, Vanesa Muñoz-Cruz, Pedro Antonio Toledo-Delgado, and Eduardo Nacimiento-García",
 		"date":  2023,
 		"link": "https://doi.org/10.3390/s23010545",
 		"title": "Personalized gamification for learning: A reactive chatbot architecture proposal",
 		"bib": "Sensors, 23(1).",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Next directions"
 	},
 	{
 		"id": 27,
@@ -266,7 +266,7 @@
 		"link": "http://arxiv.org/abs/1601.02403",
 		"title": "Argumentation mining in user-generated web discourse",
 		"bib": "CoRR, abs/1601.02403.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -276,8 +276,10 @@
 		"link": "https://doi.org/10.18653/v1/D17-2002",
 		"title": "Argotario: Computational argumentation meets serious games",
 		"bib": "In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, pages 7--12, Copenhagen, Denmark. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "1. Introduction",
+		"subpart": "NONE",
+		"part2": "4. Richness",
+		"subpart2": "Fallacies"
 	},
 	{
 		"id": 29,
@@ -286,7 +288,7 @@
 		"link": "https://doi.org/10.18653/v1/N18-1175",
 		"title": "The argument reasoning comprehension task: Identification and reconstruction of implicit warrants",
 		"bib": "In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 1930--1940, New Orleans, Louisiana. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
@@ -296,7 +298,7 @@
 		"link": "https://aclanthology.org/2022.lnls-1.5/",
 		"title": "A survey on improving nlp models with human explanations",
 		"bib": "In Proceedings of the 1st Workshop on Learning with Natural Language Supervision, pages 40–47, Dublin, Ireland. Association for Computational Linguistics.", 
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -306,8 +308,8 @@
 		"link": "https://aclanthology.org/2022.lrec-1.352",
 		"title": "QT30: A corpus of argument and conflict in broadcast debate",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 3291--3300, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 32,
@@ -316,8 +318,8 @@
 		"link": "https://aclanthology.org/2022.inlg-main.20",
 		"title": "Strategies for framing argumentative conclusion generation",
 		"bib": "In Proceedings of the 15th International Conference on Natural Language Generation, pages 246--259, Waterville, Maine, USA and virtual meeting. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 33,
@@ -326,8 +328,8 @@
 		"link": "https://aclanthology.org/2021.hcinlp-1.5",
 		"title": "Methods for the design and evaluation of HCI+NLP systems",
 		"bib": "In Proceedings of the 1st Workshop on Bridging Human--Computer Interaction and Natural Language Processing, pages 28--33, Online. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "8. Discussions",
+		"subpart": "Evaluating different systems"
 	},
 	{
 		"id": 34,
@@ -336,18 +338,18 @@
 		"link": "https://doi.org/https://doi.org/10.1016/j.eswa.2020.113421",
 		"title": "Rhetorical structure theory: A comprehensive review of theory, parsing methods and applications",
 		"bib": "Expert Systems with Applications, 157:113421.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Rhetorical structure theory"
 	},
 	{
 		"id": 35,
-		"author": "Dirk Hovy, Shannon Spruit, Margaret Mitchell, Emily~M Bender, Michael Strube, and Hanna Wallach, editors",
+		"author": "Dirk Hovy, Shannon Spruit, Margaret Mitchell, Emily M Bender, Michael Strube, and Hanna Wallach, editors",
 		"date":  2017,
 		"link": "https://doi.org/10.18653/v1/W17-16",
 		"title": "In Proceedings of the 1st ACL Workshop on Ethics in Natural Language Processing",
 		"bib": "Association for Computational Linguistics, Valencia, Spain, edition.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "8. Discussions",
+		"subpart": "Ethics"
 	},
 	{
 		"id": 36,
@@ -356,8 +358,8 @@
 		"link": "https://doi.org/10.18653/v1/2023.findings-acl.67",
 		"title": "Towards reasoning in large language models: A survey",
 		"bib": "In Findings of the Association for Computational Linguistics: ACL 2023, pages 1049--1065, Toronto, Canada. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 37,
@@ -366,8 +368,8 @@
 		"title": "Towards computational persuasion via natural language argumentation dialogues.",
 		"bib": "In KI 2019: Advances in Artificial Intelligence, pages 18--33, Cham. Springer International Publishing.",
 		"link": "https://link.springer.com/chapter/10.1007/978-3-030-30179-8_2",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Self-personalization"
 	},
 	{
 		"id": 38,
@@ -376,17 +378,17 @@
 		"link": "https://doi.org/10.1080/10494820.2021.1952615",
 		"title": "A review of opportunities and challenges of chatbots in education",
 		"bib": "Interactive Learning Environments, 0(0):1--14.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 39,
-		"author": "Sheikh~Rabiul Islam, William Eberle, Sheikh~Khaled Ghafoor, and Mohiuddin Ahmed",
+		"author": "Sheikh Rabiul Islam, William Eberle, Sheikh Khaled Ghafoor, and Mohiuddin Ahmed",
 		"date":  2021,
 		"link": "https://doi.org/10.48550/ARXIV.2101.09429",
 		"title": "Explainable artificial intelligence approaches: A survey",
 		"bib": "",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -396,8 +398,8 @@
 		"link": "https://doi.org/10.3390/educsci13070741",
 		"title": "Survey of personalized learning software systems: A taxonomy of environments, learning content, and user models",
 		"bib": "Education Sciences, 13(7).",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Next directions"
 	},
 	{
 		"id": 41,
@@ -406,8 +408,8 @@
 		"link": "https://aclanthology.org/2022.findings-emnlp.532",
 		"title": "Logical fallacy detection",
 		"bib": "In Findings of the Association for Computational Linguistics: EMNLP 2022, pages 7180--7198, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Fallacies"
 	},
 	{
 		"id": 42,
@@ -416,8 +418,8 @@
 		"link": "https://doi.org/10.48550/ARXIV.2010.02654",
 		"title": "Extracting implicitly asserted propositions in argumentation",
 		"bib": "In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 24–38, Online. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Components"
 	},
 	{
 		"id": 43,
@@ -426,8 +428,8 @@
 		"title": "Knowledge-enhanced evidence retrieval for counterargument generation.",
 		"bib": "In Findings of the Association for Computational Linguistics: EMNLP 2021, Online. Association for Computational Linguistics.",
 		"link": "https://aclanthology.org/2021.findings-emnlp.264/",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 44,
@@ -436,7 +438,7 @@
 		"link": "https://doi.org/10.24963/ijcai.2019/879",
 		"title": "Automated essay scoring: A survey of the state of the art",
 		"bib": "In Proceedings of the 28th International Joint Conference on Artificial Intelligence IJCAI 2019, pages 6300--6308. International Joint Conferences on Artificial Intelligence Organization.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -446,8 +448,8 @@
 		"title": "The decline of the socratic method at harvard.",
 		"bib": "Nebraska law review, 78:113.",
 		"link": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?httpsredir=1&article=1437&context=nlr",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 46,
@@ -456,8 +458,8 @@
 		"link": "https://aclanthology.org/2022.codi-1.8",
 		"title": "The keystone role played by questions in debate",
 		"bib": "In Proceedings of the 3rd Workshop on Computational Approaches to Discourse, pages 54--63, Gyeongju, Republic of Korea and Online. International Conference on Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Debate patterns"
 	},
 	{
 		"id": 47,
@@ -466,8 +468,8 @@
 		"link": "https://doi.org/10.3390/su15075614",
 		"title": "Chatbots in education and research: A critical examination of ethical implications and solutions",
 		"bib": "Sustainability, 15:5614.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 48,
@@ -476,8 +478,8 @@
 		"link": "https://doi.org/10.18653/v1/W18-5203",
 		"title": "ArguminSci: A tool for analyzing argumentation and rhetorical aspects in scientific writing",
 		"bib": "In Proceedings of the 5th Workshop on Argument Mining, pages 22--28, Brussels, Belgium. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Highlights"
 	},
 	{
 		"id": 49,
@@ -486,7 +488,7 @@
 		"link": "https://doi.org/10.1162/tacl_a_00525",
 		"title": "Scientia potentia Est--On the role of knowledge in computational argumentatio",
 		"bib": "Transactions of the Association for Computational Linguistics, 10:1392--1422.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
@@ -496,7 +498,7 @@
 		"link": "https://doi.org/10.1162/coli_a_00364",
 		"title": "Argument Mining: A Survey",
 		"bib": "Computational Linguistics, 45(4):765--818.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -506,18 +508,18 @@
 		"link": "https://doi.org/10.1145/3491102.3502030",
 		"title": "CoAuthor: Designing a human-AI collaborative writing dataset for exploring language model capabilities",
 		"bib": "In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022). ACM.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 52,
-		"author": "Jochen~L Leidner and Vassilis Plachouras",
+		"author": "Jochen L Leidner and Vassilis Plachouras",
 		"date":  2017,
 		"link": "https://doi.org/10.18653/v1/W17-1604",
 		"title": "Ethical by design: Ethics best practices for natural language processing",
 		"bib": "In Proceedings of the 1st ACL Workshop on Ethics in Natural Language Processing, pages 30--40, Valencia, Spain. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "8. Discussions",
+		"subpart": "Ethics"
 	},
 	{
 		"id": 53,
@@ -526,8 +528,8 @@
 		"link": "https://doi.org/10.18653/v1/2023.bea-1.7",
 		"title": "ChatBack: Investigating methods of providing grammatical error feedback in a GUI-based language learning chatbot",
 		"bib": "In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 83--99, Toronto, Canada. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "Limitations",
+		"subpart": "Paper selection"
 	},
 	{
 		"id": 54,
@@ -536,8 +538,10 @@
 		"link": "https://doi.org/10.3390/su15054012",
 		"title": "A review of ai-driven conversational chatbots implementation methodologies and challenges (1999–2022)",
 		"bib": "Sustainability, 15:4012.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent",
+		"part2": "7. Personalization",
+		"subpart2": "Next directions"
 	},
 	{
 		"id": 55,
@@ -546,8 +550,8 @@
 		"link": "https://doi.org/10.18653/v1/2020.coling-main.166",
 		"title": "Personalized multimodal feedback generation in education",
 		"bib": "In Proceedings of the 28th International Conference on Computational Linguistics, pages 1826--1840, Barcelona, Spain (Online). International Committee on Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Next directions"
 	},
 	{
 		"id": 56,
@@ -556,8 +560,8 @@
 		"link": "https://doi.org/10.18653/v1/2020.coling-demos.10",
 		"title": "Discussion tracker: Supporting teacher learning about students'",
 		"bib": "In Proceedings of the 28th International Conference on Computational Linguistics: System Demonstrations, pages 53--58, Barcelona, Spain (Online). International Committee on Computational Linguistics (ICCL).",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction between different users"
 	},
 	{
 		"id": 57,
@@ -566,8 +570,8 @@
 		"link": "https://doi.org/10.1145/3404835.3462828",
 		"title": "One chatbot per person: Creating personalized chatbots based on implicit user profiles",
 		"bib": "In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021). ACM.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Next directions"
 	},
 	{
 		"id": 58,
@@ -576,8 +580,8 @@
 		"link": "https://aclanthology.org/2023.eacl-main.173/",
 		"title": "Opportunities and challenges in neural dialog tutoring",
 		"bib": "In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 2357–2372, Dubrovnik, Croatia. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 59,
@@ -586,8 +590,8 @@
 		"link": "https://doi.org/doi:10.1515/text.1.1988.8.3.243",
 		"title": "Rhetorical structure theory: Toward a functional theory of text organization",
 		"bib": "Text - Interdisciplinary Journal for the Study of Discourse, 8(3):243--281.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Rhetorical structure theory"
 	},
 	{
 		"id": 60,
@@ -596,18 +600,18 @@
 		"link": "https://doi.org/https://doi.org/10.1023/A:1015100631027",
 		"title": "A structure analysis of japenese efl students' argumentative paragraph writings with a tool for annotating discourse relations",
 		"bib": "Bulletin of the JACET Kansai Branch Writing Guidance Study Group, 14:pp. 31--50.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Rhetorical structure theory"
 	},
 	{
 		"id": 61,
-		"author": "Farjana~Sultana Mim, Naoya Inoue, Shoichi Naito, Keshav Singh, and Kentaro Inui",
+		"author": "Farjana Sultana Mim, Naoya Inoue, Shoichi Naito, Keshav Singh, and Kentaro Inui",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.261",
 		"title": "LPAttack: A feasible annotation scheme for capturing logic pattern of attacks in arguments",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 2446--2459, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Relations"
 	},
 	{
 		"id": 62,
@@ -616,28 +620,30 @@
 		"title": "Learning to give a complete argument with a conversational agent: An experimental study in two domains of argumentation.",
 		"bib": "In Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption, pages 215--228, Cham. Springer International Publishing.",
 		"link": "https://link.springer.com/chapter/10.1007/978-3-031-16290-9_16", 
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 63,
-		"author": "Shoichi Naito, Shintaro Sawada, Chihiro Nakagawa, Naoya Inoue, Kenshi Yamaguchi, Iori Shimizu, Farjana~Sultana Mim, Keshav Singh, and Kentaro Inui",
+		"author": "Shoichi Naito, Shintaro Sawada, Chihiro Nakagawa, Naoya Inoue, Kenshi Yamaguchi, Iori Shimizu, Farjana Sultana Mim, Keshav Singh, and Kentaro Inui",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.636",
 		"title": "TYPIC: A corpus of template-based diagnostic comments on argumentation",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 5916--5928, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "1. Introduction",
+		"subpart": "NONE", 
+		"part2": "4. Richness",
+		"subpart2": "Debate patterns"
 	},
 	{
 		"id": 64,
-		"author": "Callistus~Ireneous Nakpih and Simone Santini",
+		"author": "Callistus Ireneous Nakpih and Simone Santini",
 		"date":  2020,
 		"link": "https://api.semanticscholar.org/CorpusID:214718344",
 		"title": "Automated discovery of logical fallacies in legal argumentation",
 		"bib": "International Journal of Artificial Intelligence & Applications.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Fallacies"
 	},
 	{
 		"id": 65,
@@ -646,7 +652,7 @@
 		"link": "http://www.jstor.org/stable/20371545",
 		"title": "The imminence of... grading essays by computer",
 		"bib": "The Phi Delta Kappan, 47(5):238--243.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -656,8 +662,8 @@
 		"link": "https://aclanthology.org/2023.acl-long.713",
 		"title": "Socratic pretraining: Question-driven pretraining for controllable summarization",
 		"bib": "In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), pages 12737--12755, Toronto, Canada. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 67,
@@ -666,8 +672,8 @@
 		"title": "Annotating arguments: The nomad collaborative annotation tool.",
 		"bib": "In Proceedings of the 9th International Conference on Language Resources and Evaluation (LREC 2014), Reykjavik, Iceland. European Language Resources Association (ELRA).",
 		"link": "https://aclanthology.org/L14-1526/",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction between different users"
 	},
 	{
 		"id": 68,
@@ -676,38 +682,40 @@
 		"link": "https://doi.org/10.1080/001318800440579",
 		"title": "Critical thinking in education: a review",
 		"bib": "Educational Research, 42(3):237--249.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
 		"id": 69,
-		"author": "Jan Wira~Gotama Putra, Kana Matsumura, Simone Teufel, and Takenobu Tokunaga",
+		"author": "Jan Wira Gotama Putra, Kana Matsumura, Simone Teufel, and Takenobu Tokunaga",
 		"date":  2021,
 		"title": "Tiara 2.0: an interactive tool for annotating discourse structure and text improvement.",
 		"bib": "Language Resources and Evaluation, 57:5 -- 29.",
 		"link": "https://link.springer.com/article/10.1007/s10579-021-09566-0", 
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views"
 	},
 	{
 		"id": 70,
-		"author": "Jan Wira~Gotama Putra, Simone Teufel, Kana Matsumura, and Takenobu Tokunaga",
+		"author": "Jan Wira Gotama Putra, Simone Teufel, Kana Matsumura, and Takenobu Tokunaga",
 		"date":  2020,
 		"link": "https://aclanthology.org/2020.lrec-1.854",
 		"title": "TIARA: A tool for annotating discourse relations and sentence reordering",
 		"bib": "In Proceedings of the 12th Language Resources and Evaluation Conference, pages 6912--6920, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Rhetorical structure theory",
+		"part2": "7. Personalization",
+		"subpart2": "Self-personalization"
 	},
 	{
 		"id": 71,
-		"author": "Hongjin Qian, Xiaohe Li, Hanxun Zhong, Yu~Guo, Yueyuan Ma, Yutao Zhu, Zhanliang Liu, Zhicheng Dou, and Ji-Rong Wen",
+		"author": "Hongjin Qian, Xiaohe Li, Hanxun Zhong, Yu Guo, Yueyuan Ma, Yutao Zhu, Zhanliang Liu, Zhicheng Dou, and Ji-Rong Wen",
 		"date":  2021,
 		"link": "http://arxiv.org/abs/2009.13284",
 		"title": "Pchatbot: A large-scale dataset for personalized chatbot",
 		"bib": "In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Next directions"
 	},
 	{
 		"id": 72,
@@ -716,8 +724,8 @@
 		"link": "https://aclanthology.org/2020.lrec-1.65",
 		"title": "Evaluation of argument search approaches in the context of argumentative dialogue systems",
 		"bib": "In Proceedings of the 12th Language Resources and Evaluation Conference, pages 513--522, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Dialogue Systems"
 	},
 	{
 		"id": 73,
@@ -726,8 +734,8 @@
 		"link": "https://doi.org/10.17863/CAM.12994",
 		"title": "Finding enthymemes in real-world texts: A feasibility study",
 		"bib": "Argument Computation.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 74,
@@ -736,18 +744,18 @@
 		"link": "https://doi.org/10.2307/20787669",
 		"title": "Applying toulmin: Teaching logical reasoning and argumentative writing",
 		"bib": "The English Journal, 99.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Toulmin Model"
 	},
 	{
 		"id": 75,
-		"author": "Ameer Saadat-Yazdi, Jeff~Z Pan, and Nadin Kokciyan",
+		"author": "Ameer Saadat-Yazdi, Jeff Z Pan, and Nadin Kokciyan",
 		"date":  2023,
 		"link": "https://aclanthology.org/2023.eacl-main.182",
 		"title": "Uncovering implicit inferences for improved relational argument mining",
 		"bib": "In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 2484--2495, Dubrovnik, Croatia. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 76,
@@ -756,7 +764,7 @@
 		"link": "https://doi.org/10.18653/v1/2021.emnlp-main.609",
 		"title": "ExplaGraphs: An explanation graph generation task for structured commonsense reasoning",
 		"bib": "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 7716--7740, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -766,8 +774,8 @@
 		"title": "Thinking like a Lawyer.",
 		"bib": "Harvard University Press.",
 		"link": "https://www.hup.harvard.edu/catalog.php?isbn=9780674062481",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 78,
@@ -776,8 +784,10 @@
 		"link": "https://doi.org/10.1007/s11412-009-9080-x",
 		"title": "Computer-supported argumentation: A review of the state of the art",
 		"bib": "I. J. Computer-Supported Collaborative Learning, 5:43--102.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "1. Introduction",
+		"subpart": "NONE",
+		"part2": "2. Related Work",
+		"subpart2": "NONE"
 	},
 	{
 		"id": 79,
@@ -786,38 +796,38 @@
 		"link": "https://aclanthology.org/2022.emnlp-main.277",
 		"title": "Automatic generation of socratic subquestions for teaching math word problems",
 		"bib": "In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 4136--4149, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Socratic questioning"
 	},
 	{
 		"id": 80,
-		"author": "Keshav Singh, Naoya Inoue, Farjana~Sultana Mim, Shoichi Naito, and Kentaro Inui",
+		"author": "Keshav Singh, Naoya Inoue, Farjana Sultana Mim, Shoichi Naito, and Kentaro Inui",
 		"date":  2022,
 		"link": "https://aclanthology.org/2022.lrec-1.499",
 		"title": "IRAC: A domain-specific annotated corpus of implicit reasoning in arguments",
 		"bib": "In Proceedings of the 13th Language Resources and Evaluation Conference, pages 4674--4683, Marseille, France. European Language Resources Association.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 81,
-		"author": "Keshav Singh, Farjana~Sultana Mim, Naoya Inoue, Shoichi Naito, and Kentaro Inui",
+		"author": "Keshav Singh, Farjana Sultana Mim, Naoya Inoue, Shoichi Naito, and Kentaro Inui",
 		"date":  2021,
 		"link": "https://doi.org/10.18653/v1/2021.argmining-1.6",
 		"title": "Exploring methodologies for collecting high-quality implicit reasoning in arguments",
 		"bib": "In Proceedings of the 8th Workshop on Argument Mining, pages 57--66, Punta Cana, Dominican Republic. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 82,
-		"author": "Yi~Song, Michael Heilman, Beata Beigman~Klebanov, and Paul Deane",
+		"author": "Yi Song, Michael Heilman, Beata Beigman Klebanov, and Paul Deane",
 		"date":  2014,
 		"link": "https://doi.org/10.3115/v1/W14-2110",
 		"title": "Applying argumentation schemes for essay scoring",
 		"bib": "In Proceedings of the 1st Workshop on Argumentation Mining, pages 69--78, Baltimore, Maryland. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Schemes"
 	},
 	{
 		"id": 83,
@@ -826,8 +836,8 @@
 		"link": "https://doi.org/10.3115/v1/D14-1006",
 		"title": "Identifying argumentative discourse structures in persuasive essays",
 		"bib": "In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 46--56, Doha, Qatar. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Components"
 	},
 	{
 		"id": 84,
@@ -835,9 +845,9 @@
 		"date":  1999,
 		"title": "Argumentative Zoning: Information Extraction from Scientific Text.",
 		"bib": "Ph.D. thesis, University of Edinburgh.",
-		"link": "https://www.cl.cam.ac.uk/~sht25/thesis/t1.pdf",
-		"part": "NONE",
-		"subpart": "NONE"
+		"link": "https://www.cl.cam.ac.uk/ sht25/thesis/t1.pdf",
+		"part": "4. Richness",
+		"subpart": "Components"
 	},
 	{
 		"id": 85,
@@ -846,8 +856,10 @@
 		"title": "The Uses of Arguments, 1 edition.",
 		"bib": "Cambridge University Press.",
 		"link": "https://www.semanticscholar.org/paper/The-Uses-of-Argument%2C-Updated-Edition-Toulmin/10b9b37bc77d20c4dac5031ef1fc2425e9c29b1d",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "1. Introduction",
+		"subpart": "NONE",
+		"part2": "3. Pedagogy",
+		"subpart2": "Toulmin Model"
 	},
 	{
 		"id": 86,
@@ -856,8 +868,8 @@
 		"link": "https://www.learntechlib.org/p/222408",
 		"title": "Editorial: Chatgpt: Challenges, opportunities, and implications for teacher education",
 		"bib": "Contemporary Issues in Technology and Teacher Education, 23(1):1--23.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "8. Discussions",
+		"subpart": "Ethics"
 	},
 	{
 		"id": 87,
@@ -866,7 +878,7 @@
 		"link": "https://doi.org/10.5840/teachphil200427213",
 		"title": "Argument maps improve critical thinking",
 		"bib": "Teaching Philosophy, 27.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
@@ -876,7 +888,7 @@
 		"link": "https://doi.org/10.1017/S0269888921000011",
 		"title": "Argumentation and explainable artificial intelligence: a survey",
 		"bib": "The Knowledge Engineering Review, 36:e5.",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
@@ -886,8 +898,8 @@
 		"link": "https://doi.org/https://doi.org/10.1023/A:1015100631027",
 		"title": "Collaborative argumentation in academic education",
 		"bib": "Instructional Science, 40(3).",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Collaborative argumentation"
 	},
 	{
 		"id": 90,
@@ -896,17 +908,17 @@
 		"link": "https://aclanthology.org/2022.coling-1.27",
 		"title": "\"mama always had a way of explaining things so I could understand\": A dialogue corpus for learning to construct explanations",
 		"bib": "In Proceedings of the 29th International Conference on Computational Linguistics, pages 344--354, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "7. Personalization",
+		"subpart": "Levels of explanations"
 	},
 	{
 		"id": 91,
-		"author": "Henning Wachsmuth, Nona Naderi, Yufang Hou, Yonatan Bilu, Vinodkumar Prabhakaran, Tim~Alberdingk Thijm, Graeme Hirst, and Benno Stein",
+		"author": "Henning Wachsmuth, Nona Naderi, Yufang Hou, Yonatan Bilu, Vinodkumar Prabhakaran, Tim Alberdingk Thijm, Graeme Hirst, and Benno Stein",
 		"date":  2017,
 		"link": "https://aclanthology.org/E17-1017",
 		"title": "Computational argumentation quality assessment in natural language",
 		"bib": "In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers, pages 176--187, Valencia, Spain. Association for Computational Linguistics.",
-		"part": "NONE",
+		"part": "1. Introduction",
 		"subpart": "NONE"
 	},
 	{
@@ -916,48 +928,56 @@
 		"title": "Argumentation schemes.",
 		"bib": "Cambridge University Press.",
 		"link": "https://www.cambridge.org/core/books/abs/argumentation-schemes/introduction/745B75B5933D17D86AC2E85971DA34A2",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Schemes"
 	},
 	{
 		"id": 93,
-		"author": "Thiemo Wambsganss, Andrew Caines, and Paula Buttery",
+		"author": "Thiemo Wambsganß, Andrew Caines, and Paula Buttery",
 		"date": 2022,
 		"link": "https://doi.org/10.18653/v1/2022.bea-1.18",
 		"title": "ALEN app: Argumentative writing support to foster English language learning",
 		"bib": "In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022), pages 134--140, Seattle, Washington. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views",
+		"part2": "7. Personalization",
+		"subpart2": "Levels of explanations"
 	},
 	{
 		"id": 94,
-		"author": "Thiemo Wambsganss, Andreas Janson, Tanja Käser, and Jan~Marco Leimeister",
+		"author": "Thiemo Wambsganß, Andreas Janson, Tanja Käser, and Jan Marco Leimeister",
 		"date": 2022,
 		"link": "https://doi.org/10.1145/3555633",
 		"title": "Improving students argumentation learning with adaptive self-evaluation nudging",
 		"bib": "In Proceedings of the ACM on Human-Computer Interaction (PACMHCI 2022), 6(520):1--31.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Highlights"
 	},
 	{
 		"id": 95,
-		"author": "Thiemo Wambsganß, Tobias Kueng, Matthias Söllner, and Jan~Marco Leimeister",
+		"author": "Thiemo Wambsganß, Tobias Kueng, Matthias Söllner, and Jan Marco Leimeister",
 		"date":  2021,
 		"link": "https://doi.org/10.1145/3411764.3445781",
 		"title": "Arguetutor: An adaptive dialog-based learning system for argumentation skills",
 		"bib": "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021), pages 1--13.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "1. Introduction",
+		"subpart": "NONE",
+		"part2": "5. Visualization",
+		"subpart2": "Dialogue Systems",
+		"part3": "6. Interaction",
+		"subpart3": "Interaction with a conversational agent"
 	},
 	{
 		"id": 96,
-		"author": "Thiemo Wambsganß, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfried Handschuh, and Jan~Marco Leimeister",
+		"author": "Thiemo Wambsganß, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfried Handschuh, and Jan Marco Leimeister",
 		"date":  2020,
 		"link": "https://doi.org/10.1145/3313831.3376732",
 		"title": "Al: An adaptive learning support system for argumentation skills",
 		"bib": "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2020).",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views",
+		"part2": "7. Personalization",
+		"subpart2": "Levels of explanations"
 	},
 	{
 		"id": 97,
@@ -966,8 +986,8 @@
 		"link": "https://doi.org/10.18653/v1/2023.acl-long.153",
 		"title": "Towards understanding chain-of-thought prompting: An empirical study of what matters",
 		"bib": "In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), pages 2717--2739, Toronto, Canada. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 98,
@@ -976,8 +996,8 @@
 		"link": "https://aclanthology.org/2023.findings-eacl.170/",
 		"bib": "In Findings of the Association for Computational Linguistics: EACL 2023, pages 2268–2274, Dubrovnik, Croatia. Association for Computational Linguistics",
 		"title": "Strategize before teaching: A conversational tutoring system with pedagogy self-distillation",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "6. Interactivity",
+		"subpart": "Interaction with a conversational agent"
 	},
 	{
 		"id": 99,
@@ -986,18 +1006,18 @@
 		"link": "https://doi.org/10.48550/ARXIV.2205.04083",
 		"title": "Automated evaluation for student argumentative writing: A survey",
 		"bib": "",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	},
 	{
 		"id": 100,
-		"author": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed~Chi, Quoc~V Le, and Denny Zhou",
+		"author": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc V Le, and Denny Zhou",
 		"date":  2022,
 		"link": "https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf",
 		"title": "Chain-of-thought prompting elicits reasoning in large language models",
-		"bib": "In Advances in Neural Information Processing Systems, volume~35, pages 24824--24837. Curran Associates, Inc.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"bib": "In Advances in Neural Information Processing Systems, volume 35, pages 24824--24837. Curran Associates, Inc.",
+		"part": "4. Richness",
+		"subpart": "Implicit Knowledge and Reasoning in Arguments"
 	},
 	{
 		"id": 101,
@@ -1006,8 +1026,8 @@
 		"link": "https://doi.org/https://doi.org/10.1016/j.compedu.2005.04.003",
 		"title": "A framework to analyze argumentative knowledge construction in computer-supported collaborative learning",
 		"bib": "Methodological Issues in Researching CSCL. Computers & Education, 46(1):71--95.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Collaborative argumentation"
 	},
 	{
 		"id": 102,
@@ -1016,8 +1036,8 @@
 		"link": "https://doi.org/10.1145/3555210",
 		"title": "Persua: A visual interactive system to enhance the persuasiveness of arguments in online discussion",
 		"bib": "In Proceedings of the 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 2022), 6(CSCW2):1--30.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views"
 	},
 	{
 		"id": 103,
@@ -1026,38 +1046,40 @@
 		"title": "Empowering education: Teaching argumentative writing to cultural minority middle-school students. research in the teaching of english.",
 		"bib": "Research in the Teaching of English, 33(1):49--83.",
 		"link": "https://experts.umn.edu/en/publications/empowering-education-teaching-argumentative-writing-to-cultural-m",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "3. Pedagogy",
+		"subpart": "Toulmin Model"
 	},
 	{
 		"id": 104,
-		"author": "Jian Yuan, Zhongyu Wei, Donghua Zhao, Qi~Zhang, and Changjian Jiang",
+		"author": "Jian Yuan, Zhongyu Wei, Donghua Zhao, Qi Zhang, and Changjian Jiang",
 		"date":  2021,
 		"link": "https://doi.org/10.18653/v1/2021.findings-acl.203",
 		"title": "Leveraging argumentation knowledge graph for interactive argument pair identification",
 		"bib": "In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 2310--2319, Online. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Relations"
 	},
 	{
 		"id": 105,
-		"author": "Fan Zhang, Rebecca Hwa, Diane Litman, and Homa~B Hashemi",
+		"author": "Fan Zhang, Rebecca Hwa, Diane Litman, and Homa B Hashemi",
 		"date":  2016,
 		"link": "https://doi.org/10.18653/v1/N16-3008",
 		"title": "ArgRewrite: A web-based revision assistant for argumentative writings",
 		"bib": "In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Demonstrations, pages 37--41, San Diego, California. Association for Computational Linguistics.",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views"
 	},
 	{
 		"id": 106,
-		"author": "Zheng Zhang, Jie Gao, Ranjodh~Singh Dhaliwal, and Toby Jia-Jun Li",
+		"author": "Zheng Zhang, Jie Gao, Ranjodh Singh Dhaliwal, and Toby Jia-Jun Li",
 		"date":  2023,
 		"link": "http://arxiv.org/abs/2304.07810",
 		"title": "Visar: A human-ai argumentative writing assistant with visual programming and rapid draft prototyping",
 		"bib": "",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "5. Vizualisation",
+		"subpart": "Multiple views",
+		"part2": "6. Interactivity",
+		"subpart2": "Interaction between different users"
 	},
 	{
 		"id": 107,
@@ -1066,8 +1088,8 @@
 		"link": "https://www.ijcai.org/proceedings/2023/0576",
 		"title": "Case-based reasoning with language models for classification of logical fallacies",
 		"bib": "In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)",
-		"part": "NONE",
-		"subpart": "NONE"
+		"part": "4. Richness",
+		"subpart": "Fallacies"
 	},
 	{
 		"id": 108,
@@ -1076,7 +1098,7 @@
 		"link": "https://doi.org/10.48550/ARXIV.2105.11266",
 		"title": "Argumentative xai: A survey",
 		"bib": "In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)",
-		"part": "NONE",
+		"part": "2. Related Work",
 		"subpart": "NONE"
 	}
 ]
