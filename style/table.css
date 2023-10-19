@@ -22,6 +22,10 @@ tr:nth-child(even){background-color: #f2f2f2}
 	background-color: #D9EAD3;
 }
 
+.tr_discu:hover {
+	background-color: lemonchiffon;
+}
+
 #input {
 	background-image: url('../images/search_icon.png') ;
 	background-position: 10px 10px;

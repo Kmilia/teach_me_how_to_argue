@@ -7,6 +7,7 @@ p { text-align: justify;}
 .visu {color: #674EA7}
 .inter {color: #3D85C6}
 .perso {color: #6A9A4F}
+.discu {color: orange}
 
 .rich_back {
     background-color: #CC0000;
@@ -28,9 +29,14 @@ p { text-align: justify;}
     color: white
 }
 
+.discu_back {
+    background-color: orange;
+    color: white
+}
+
 .rich_hover:hover {
     background-color: #CC0000;
-    color: #CC0000;
+    color: white
 }
 
 .visu_hover:hover {
@@ -45,5 +51,10 @@ p { text-align: justify;}
 
 .perso_hover:hover {
     background-color: #6A9A4F;
+    color: white
+}
+
+.discu_hover:hover {
+    background-color: orange;
     color: white
 }
