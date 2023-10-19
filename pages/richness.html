@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="../style/color_dimensions.css">
     <link rel="stylesheet" href="../style/table.css">
     <script type="text/javascript" src="../script/navbar.js"> </script>
+    <script type="text/javascript" src="../script/search.js"> </script>
 </head>
 <body>
 
@@ -50,15 +51,16 @@
         <h1><b>Richness</b></h1>
         </div>
 
-        <div class="container">
+        <div class="table-container">
+            <input type="text" id="input" onkeyup="searchTable()" placeholder="Search for a title" >
             <table id="table">
                 <thead>
                     <tr class="rich_back">
-                        <th data-field="sub" data-filter-control="select" data-sortable="true">Subsection</th>
-                        <th data-field="title" data-filter-control="input" data-sortable="true">Title</th>
-                        <th data-field="date" data-filter-control="select" data-sortable="true">Date</th>
-                        <th data-field="author" data-filter-control="input" data-sortable="true">Author</th>
-                        <th data-field="bib" data-filter-control="input" data-sortable="true">Reference</th>
+                        <th>Subsection</th>
+                        <th>Title</th>
+                        <th>Date</th>
+                        <th>Author</th>
+                        <th>Reference</th>
                     </tr>
                 </thead>
                 <tbody>

@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../style/color_dimensions.css">
     <link rel="stylesheet" href="../style/table.css">
     <script type="text/javascript" src="../script/navbar.js"> </script>
+    <script type="text/javascript" src="../script/search.js"> </script>
 </head>
 <body>
 
@@ -51,15 +52,16 @@
         <h1><b>Interactivity</b></h1>
         </div>
 
-        <div class="container">
+        <div class="table-container">
+            <input type="text" id="input" onkeyup="searchTable()" placeholder="Search for a title" >
             <table id="table">
                 <thead>
                     <tr class="inter_back">
-                        <th data-field="sub" data-filter-control="select" data-sortable="true">Subsection</th>
-                        <th data-field="title" data-filter-control="input" data-sortable="true">Title</th>
-                        <th data-field="date" data-filter-control="select" data-sortable="true">Date</th>
-                        <th data-field="author" data-filter-control="input" data-sortable="true">Author</th>
-                        <th data-field="bib" data-filter-control="input" data-sortable="true">Reference</th>
+                        <th>Subsection</th>
+                        <th>Title</th>
+                        <th>Date</th>
+                        <th>Author</th>
+                        <th>Reference</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -158,8 +160,5 @@
         </p>
     </footer>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
 </html>
