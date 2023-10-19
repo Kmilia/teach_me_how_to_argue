@@ -1,0 +1,49 @@
+html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
+.w3-tag, .fa {cursor:pointer}
+.w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+p { text-align: justify;}
+
+.rich {color: #CC0000}
+.visu {color: #674EA7}
+.inter {color: #3D85C6}
+.perso {color: #6A9A4F}
+
+.rich_back {
+    background-color: #CC0000;
+    color: white
+}
+
+.visu_back {
+    background-color: #674EA7;
+    color: white
+}
+
+.inter_back {
+    background-color: #3D85C6;
+    color: white
+}
+
+.perso_back {
+    background-color: #6A9A4F;
+    color: white
+}
+
+.rich_hover:hover {
+    background-color: #CC0000;
+    color: #CC0000;
+}
+
+.visu_hover:hover {
+    background-color: #674EA7;
+    color: white
+}
+
+.inter_hover:hover {
+    background-color: #3D85C6;
+    color: white
+}
+
+.perso_hover:hover {
+    background-color: #6A9A4F;
+    color: white
+}
