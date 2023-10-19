@@ -3,11 +3,6 @@ table {
 	table-layout: auto;
 	width: 100%;
 }
-  
-th, td {
-	text-align: left;
-	padding: 8px;
-}
 
 tr:nth-child(even){background-color: #f2f2f2}
 
@@ -43,19 +38,17 @@ tr:nth-child(even){background-color: #f2f2f2}
 	overflow: scroll;
 	padding-top: 20px;
 }
-
-table {
-	width: 100%;
-}
   
 #table {
-border-collapse: collapse;
-width: 100%;
-border: 1px solid #ddd;
-overflow: scroll;
+	border: 1px solid #ddd;
+	overflow: scroll;
 }
 
 #table th, #table td {
-text-align: left;
-padding: 12px;
+	text-align: left;
+	padding: 12px;
+}
+
+.date {
+	width: 70px;
 }
