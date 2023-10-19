@@ -16,7 +16,7 @@
 		"link": "https://doi.org/10.1145/3411764.3445683",
 		"title": "Effective interfaces for student-driven revision sessions for argumentative writing",
 		"bib": "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021) ACM.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views"
 	},
 	{
@@ -156,7 +156,7 @@
 		"link": "https://doi.org/10.18653/v1/P19-3031",
 		"title": "TARGER: Neural argument mining at your fingertips",
 		"bib": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 195--200, Florence, Italy. Association for Computational Linguistics.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Highlights"
 	},
 	{
@@ -478,7 +478,7 @@
 		"link": "https://doi.org/10.18653/v1/W18-5203",
 		"title": "ArguminSci: A tool for analyzing argumentation and rhetorical aspects in scientific writing",
 		"bib": "In Proceedings of the 5th Workshop on Argument Mining, pages 22--28, Brussels, Belgium. Association for Computational Linguistics.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Highlights"
 	},
 	{
@@ -508,7 +508,7 @@
 		"link": "https://doi.org/10.1145/3491102.3502030",
 		"title": "CoAuthor: Designing a human-AI collaborative writing dataset for exploring language model capabilities",
 		"bib": "In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022). ACM.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Interaction with a conversational agent"
 	},
 	{
@@ -692,7 +692,7 @@
 		"title": "Tiara 2.0: an interactive tool for annotating discourse structure and text improvement.",
 		"bib": "Language Resources and Evaluation, 57:5 -- 29.",
 		"link": "https://link.springer.com/article/10.1007/s10579-021-09566-0", 
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views"
 	},
 	{
@@ -724,7 +724,7 @@
 		"link": "https://aclanthology.org/2020.lrec-1.65",
 		"title": "Evaluation of argument search approaches in the context of argumentative dialogue systems",
 		"bib": "In Proceedings of the 12th Language Resources and Evaluation Conference, pages 513--522, Marseille, France. European Language Resources Association.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Dialogue Systems"
 	},
 	{
@@ -938,7 +938,7 @@
 		"link": "https://doi.org/10.18653/v1/2022.bea-1.18",
 		"title": "ALEN app: Argumentative writing support to foster English language learning",
 		"bib": "In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022), pages 134--140, Seattle, Washington. Association for Computational Linguistics.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views",
 		"part2": "7. Personalization",
 		"subpart2": "Levels of explanations"
@@ -950,7 +950,7 @@
 		"link": "https://doi.org/10.1145/3555633",
 		"title": "Improving students argumentation learning with adaptive self-evaluation nudging",
 		"bib": "In Proceedings of the ACM on Human-Computer Interaction (PACMHCI 2022), 6(520):1--31.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Highlights"
 	},
 	{
@@ -974,7 +974,7 @@
 		"link": "https://doi.org/10.1145/3313831.3376732",
 		"title": "Al: An adaptive learning support system for argumentation skills",
 		"bib": "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2020).",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views",
 		"part2": "7. Personalization",
 		"subpart2": "Levels of explanations"
@@ -1036,7 +1036,7 @@
 		"link": "https://doi.org/10.1145/3555210",
 		"title": "Persua: A visual interactive system to enhance the persuasiveness of arguments in online discussion",
 		"bib": "In Proceedings of the 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 2022), 6(CSCW2):1--30.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views"
 	},
 	{
@@ -1066,7 +1066,7 @@
 		"link": "https://doi.org/10.18653/v1/N16-3008",
 		"title": "ArgRewrite: A web-based revision assistant for argumentative writings",
 		"bib": "In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Demonstrations, pages 37--41, San Diego, California. Association for Computational Linguistics.",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views"
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"link": "http://arxiv.org/abs/2304.07810",
 		"title": "Visar: A human-ai argumentative writing assistant with visual programming and rapid draft prototyping",
 		"bib": "",
-		"part": "5. Vizualisation",
+		"part": "5. Visualization",
 		"subpart": "Multiple views",
 		"part2": "6. Interactivity",
 		"subpart2": "Interaction between different users"

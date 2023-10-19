@@ -10,4 +10,19 @@ th, td {
 }
 
 tr:nth-child(even){background-color: #f2f2f2}
-tr:hover {background-color: red;}
+
+.tr_rich:hover {
+	background-color: #F4CCCC;
+}
+
+.tr_visu:hover {
+	background-color: #D9D2E9;
+}
+
+.tr_inter:hover {
+	background-color: #CFE2F3;
+}
+
+.tr_perso:hover {
+	background-color: #D9EAD3;
+}
