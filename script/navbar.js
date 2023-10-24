@@ -1,9 +1,18 @@
 
 function switchNavBar() {
-var x = document.getElementById("navSmall");
-if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-} else { 
-    x.className = x.className.replace(" w3-show", "");
-}
-}
+    var navbar = document.getElementById("navSmall");
+    if (navbar.className.indexOf("w3-show") == -1) {
+        navbar.className += " w3-show";
+    } else { 
+        navbar.className = navbar.className.replace(" w3-show", "");
+    }
+};
+
+document.addEventListener('click', function handleClickOutsideBox(event) {  
+    const navbar = document.getElementById('navSmall');
+    const toogle = document.getElementById('toogle');
+  
+    if (!navbar.contains(event.target) && (!toogle.contains(event.target))) {
+        navbar.className = navbar.className.replace(" w3-show", "");
+    }
+  });
